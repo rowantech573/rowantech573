@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi, I'm Rowan (@rowantech573)
 
-<!--
-**rowantech573/rowantech573** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer based in Paris. I build bootstrapped web tools and focus on shipping simple, fast products.
 
-Here are some ideas to get you started:
+#### What I'm up to
+- Shipping micro-SaaS projects using FastAPI and React.
+- Playing with local-first setups and SQLite-centric backends.
+- Learning more about systems performance and database internals.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Stack
+- **Languages:** TypeScript, Python, SQL
+- **Web:** FastAPI, React, Next.js, Tailwind CSS
+- **Storage:** SQLite, PostgreSQL, Redis
+- **Infra:** Docker, Hetzner, GitHub Actions
+
+#### Contact
+- Twitter/X: [@rowantech573](https://x.com/rowantech573)
+- Email: hello@rowantech.dev
+- Website: https://rowantech.dev
